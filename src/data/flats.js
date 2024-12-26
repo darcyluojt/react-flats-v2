@@ -46,7 +46,16 @@ const flats = [
     priceCurrency: "EUR",
     lat: 48.827855,
     lng: 2.350774
+  },
+  {
+    name: "London stratford",
+    imageUrl: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/HE1080991_Old_Town_Hall_Stratford_%281%29.jpg/520px-HE1080991_Old_Town_Hall_Stratford_%281%29.jpg",
+    price: 90,
+    priceCurrency: "Pound",
+    lat: 51.544052,
+    lng: -0.005431
   }
+
 ];
 
 export default flats;
